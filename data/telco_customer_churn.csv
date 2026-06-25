@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+7209-XXXXX,Female,0,Yes,No,19,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,94.35,1792.65,No
+1703-XXXXX,Female,1,Yes,Yes,17,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,103.46,1758.82,Yes
+4320-XXXXX,Female,1,Yes,No,65,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,106.92,6949.8,Yes
+5664-XXXXX,Male,1,No,Yes,12,Yes,No phone service,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,108.99,1307.88,No
+6029-XXXXX,Male,1,No,No,50,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,91.34,4567.0,No
+1829-XXXXX,Female,1,No,No,23,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,49.12,1129.76,Yes
+6072-XXXXX,Female,0,No,No,33,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,103.48,3414.84,Yes
+6674-XXXXX,Male,0,No,No,58,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card,48.02,2785.16,No
+8901-XXXXX,Male,0,Yes,Yes,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,42.8,1540.8,No
+2814-XXXXX,Female,1,Yes,No,1,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,97.76,97.76,No
+1298-XXXXX,Male,0,Yes,No,19,No,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer,95.71,1818.49,No
+4083-XXXXX,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,53.19,53.19,No
+6157-XXXXX,Female,1,Yes,No,24,No,No phone service,DSL,No,No,No,No,No,No,One year,No,Credit card,80.91,1941.84,No
+6067-XXXXX,Female,0,No,No,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,76.19,2742.84,Yes
+1015-XXXXX,Male,1,Yes,No,71,No,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card,70.57,5010.47,No
+5956-XXXXX,Female,0,No,Yes,13,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,87.24,1134.12,Yes
+5865-XXXXX,Female,1,No,Yes,5,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,102.03,510.15,Yes
+2044-XXXXX,Male,1,No,Yes,40,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,21.06,842.4,No
+6923-XXXXX,Female,1,No,No,41,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card,42.44,1740.04,Yes
+3250-XXXXX,Female,0,No,Yes,1,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,No,Mailed check,84.26,84.26,No
+3471-XXXXX,Female,0,No,Yes,30,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Two year,No,Bank transfer,58.28,1748.4,No
+3000-XXXXX,Male,0,No,No,61,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,105.11,6411.71,No
+4922-XXXXX,Female,0,Yes,Yes,69,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,60.51,4175.19,Yes
+9098-XXXXX,Male,0,Yes,No,2,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,110.06,220.12,No
+2859-XXXXX,Female,0,No,Yes,58,Yes,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Two year,Yes,Electronic check,78.3,4541.4,No
+5376-XXXXX,Female,1,Yes,Yes,9,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,82.18,739.62,No
+7218-XXXXX,Female,0,No,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,95.91,5370.96,No
+7379-XXXXX,Male,1,Yes,Yes,48,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,116.5,5592.0,No
+7466-XXXXX,Male,0,Yes,Yes,40,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,80.44,3217.6,No
+9332-XXXXX,Male,1,Yes,Yes,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,105.73,3912.01,No
+4555-XXXXX,Female,0,No,No,65,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Mailed check,116.33,7561.45,No
+3977-XXXXX,Female,0,No,No,49,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,46.95,2300.55,No
+2857-XXXXX,Male,0,No,No,52,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,48.68,2531.36,No
+3420-XXXXX,Male,1,Yes,No,48,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,36.38,1746.24,Yes
+9166-XXXXX,Male,1,No,Yes,54,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,34.97,1888.38,No
+7391-XXXXX,Female,1,No,No,64,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,34.59,2213.76,No
+2530-XXXXX,Male,1,Yes,Yes,25,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,92.62,2315.5,No
+4019-XXXXX,Female,1,No,Yes,15,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,51.41,771.15,No
+3202-XXXXX,Male,1,Yes,No,49,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer,37.85,1854.65,No
+3335-XXXXX,Male,0,No,No,13,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,24.9,323.7,No
+8598-XXXXX,Male,0,No,Yes,13,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,75.98,987.74,No
+3744-XXXXX,Male,0,Yes,Yes,33,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,Two year,Yes,Mailed check,80.74,2664.42,No
+4284-XXXXX,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,52.76,3798.72,No
+4677-XXXXX,Female,1,No,Yes,10,No,No phone service,DSL,No,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,89.29,892.9,Yes
+8081-XXXXX,Female,1,Yes,Yes,37,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,98.99,3662.63,No
+8522-XXXXX,Male,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,One year,No,Bank transfer,66.74,1001.1,No
+2897-XXXXX,Male,1,Yes,No,52,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer,112.91,5871.32,No
+8482-XXXXX,Male,0,Yes,No,20,Yes,No phone service,DSL,No,No,No,No,Yes,No,One year,No,Mailed check,65.81,1316.2,No
+3637-XXXXX,Female,0,Yes,Yes,15,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card,33.52,502.8,No
+9119-XXXXX,Male,1,No,No,6,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,105.45,632.7,Yes
+1266-XXXXX,Female,0,No,Yes,35,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,41.72,1460.2,Yes
+5551-XXXXX,Male,1,Yes,Yes,22,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,47.4,1042.8,No
+8321-XXXXX,Male,1,No,No,61,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,110.35,6731.35,No
+8005-XXXXX,Male,0,No,Yes,36,Yes,No phone service,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer,55.01,1980.36,No
+9292-XXXXX,Female,0,Yes,Yes,25,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,20.8,520.0,Yes
+5130-XXXXX,Male,1,Yes,No,5,Yes,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,Two year,No,Electronic check,92.78,463.9,No
+7142-XXXXX,Male,0,No,No,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,28.47,56.94,No
+8174-XXXXX,Male,0,Yes,Yes,25,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,38.34,958.5,No
+5349-XXXXX,Female,0,No,No,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,63.56,1970.36,Yes
+4871-XXXXX,Female,0,No,No,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,119.4,1313.4,No
+3846-XXXXX,Female,0,Yes,Yes,8,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,115.07,920.56,No
+4168-XXXXX,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card,94.12,6117.8,No
+5853-XXXXX,Male,0,No,Yes,15,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,82.46,1236.9,No
+7718-XXXXX,Male,0,No,Yes,54,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,98.71,5330.34,Yes
+7557-XXXXX,Female,1,No,Yes,44,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card,44.06,1938.64,No
+7405-XXXXX,Female,0,No,No,32,No,No phone service,DSL,No,No,No,No,No,No,Two year,No,Mailed check,48.87,1563.84,No
+3495-XXXXX,Female,0,Yes,Yes,38,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,48.81,1854.78,No
+2442-XXXXX,Male,0,Yes,Yes,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,43.35,3121.2,No
+8108-XXXXX,Female,1,Yes,No,5,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,One year,Yes,Bank transfer,81.92,409.6,No
+1537-XXXXX,Male,1,No,No,29,No,No phone service,DSL,No,No,Yes,No,Yes,No,Two year,No,Mailed check,44.13,1279.77,No
+6017-XXXXX,Male,1,Yes,Yes,9,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,20.17,181.53,Yes
+2438-XXXXX,Female,0,Yes,No,27,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,44.64,1205.28,No
+1701-XXXXX,Female,0,Yes,No,16,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,99.4,1590.4,No
+8239-XXXXX,Male,1,Yes,No,3,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Two year,Yes,Bank transfer,88.12,264.36,No
+2350-XXXXX,Female,0,Yes,Yes,61,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,37.39,2280.79,No
+8336-XXXXX,Female,1,No,Yes,58,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer,86.61,5023.38,No
+2713-XXXXX,Male,0,No,No,20,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,26.05,521.0,No
+9202-XXXXX,Male,1,No,No,4,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,80.05,320.2,No
+7232-XXXXX,Female,1,No,Yes,56,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer,47.46,2657.76,No
+9815-XXXXX,Female,1,No,Yes,53,Yes,No,DSL,No,No,No,No,No,No,Two year,No,Mailed check,38.38,2034.14,No
+6033-XXXXX,Female,0,Yes,Yes,18,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,41.17,741.06,No
+7613-XXXXX,Female,1,No,Yes,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,112.26,2357.46,No
+6819-XXXXX,Female,0,No,No,36,No,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,47.27,1701.72,No
+7099-XXXXX,Female,1,No,No,68,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer,109.84,7469.12,No
+6955-XXXXX,Male,1,No,No,34,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,75.38,2562.92,No
+5275-XXXXX,Male,0,Yes,Yes,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,58.26,291.3,No
+7316-XXXXX,Female,0,Yes,No,39,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,42.44,1655.16,No
+7243-XXXXX,Female,0,No,Yes,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,23.8,1475.6,No
+1105-XXXXX,Female,1,Yes,Yes,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,99.03,495.15,Yes
+7772-XXXXX,Female,1,Yes,Yes,49,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,77.73,3808.77,No
+2009-XXXXX,Male,0,Yes,Yes,29,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Two year,Yes,Electronic check,52.13,1511.77,No
+9601-XXXXX,Female,1,Yes,No,37,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Mailed check,62.5,2312.5,Yes
+5284-XXXXX,Female,1,No,Yes,41,No,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,49.1,2013.1,No
+2013-XXXXX,Male,0,No,No,35,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card,44.8,1568.0,No
+1315-XXXXX,Male,0,Yes,Yes,1,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,102.75,102.75,No
+8565-XXXXX,Male,0,Yes,Yes,48,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,98.8,4742.4,No
+7265-XXXXX,Male,0,Yes,Yes,19,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,77.94,1480.86,No
+3685-XXXXX,Female,0,Yes,Yes,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,49.45,1038.45,No
+4155-XXXXX,Male,0,No,No,45,Yes,No,DSL,No,No,No,No,Yes,Yes,Two year,No,Electronic check,78.05,3512.25,No
+5009-XXXXX,Female,0,No,Yes,40,No,No phone service,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Credit card,56.53,2261.2,Yes
+8132-XXXXX,Male,0,Yes,Yes,45,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer,35.16,1582.2,No
+4767-XXXXX,Female,0,No,Yes,15,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer,58.97,884.55,No
+3244-XXXXX,Male,0,Yes,Yes,41,Yes,No phone service,DSL,No,No,Yes,No,No,No,One year,Yes,Bank transfer,33.24,1362.84,No
+5592-XXXXX,Male,1,No,No,53,Yes,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Mailed check,88.07,4667.71,No
+5506-XXXXX,Female,0,No,No,20,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,56.76,1135.2,Yes
+8603-XXXXX,Male,1,Yes,Yes,33,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Credit card,34.77,1147.41,No
+4835-XXXXX,Female,0,Yes,No,27,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,56.54,1526.58,No
+5276-XXXXX,Male,1,No,Yes,54,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Mailed check,104.74,5655.96,No
+1361-XXXXX,Male,1,Yes,No,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,61.41,2333.58,No
+8365-XXXXX,Male,0,No,No,62,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,105.47,6539.14,No
+4481-XXXXX,Female,1,Yes,No,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,26.67,53.34,Yes
+8401-XXXXX,Female,1,Yes,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,69.64,69.64,No
+6591-XXXXX,Female,0,Yes,No,70,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,54.59,3821.3,No
+9799-XXXXX,Female,1,Yes,No,28,No,No phone service,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Electronic check,63.35,1773.8,No
+1720-XXXXX,Male,1,No,No,12,No,No phone service,DSL,No,No,Yes,No,No,Yes,Two year,Yes,Credit card,116.07,1392.84,No
+1413-XXXXX,Female,1,No,No,65,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card,114.1,7416.5,No
+6933-XXXXX,Female,1,No,Yes,62,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Two year,No,Credit card,70.76,4387.12,No
+3645-XXXXX,Female,1,No,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,39.14,2230.98,No
+6515-XXXXX,Male,0,Yes,Yes,45,Yes,No phone service,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,23.2,1044.0,No
+9492-XXXXX,Female,1,No,No,10,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card,57.51,575.1,Yes
+4963-XXXXX,Male,0,Yes,Yes,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,102.65,205.3,No
+8733-XXXXX,Male,0,Yes,No,29,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,Two year,No,Mailed check,22.17,642.93,No
+8690-XXXXX,Male,1,No,No,32,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,75.97,2431.04,No
+5368-XXXXX,Female,1,No,Yes,56,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,85.04,4762.24,No
+7369-XXXXX,Male,0,Yes,Yes,27,Yes,No phone service,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,41.68,1125.36,No
+9614-XXXXX,Female,0,Yes,No,47,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,118.86,5586.42,No
+4834-XXXXX,Male,1,No,Yes,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,24.53,98.12,Yes
+6849-XXXXX,Female,1,Yes,Yes,16,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,108.0,1728.0,Yes
+9479-XXXXX,Male,0,No,No,3,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,One year,No,Electronic check,60.8,182.4,No
+3073-XXXXX,Female,0,Yes,No,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,116.65,8282.15,No
+6378-XXXXX,Male,0,Yes,No,37,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card,59.76,2211.12,No
+5127-XXXXX,Male,1,No,No,16,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,80.2,1283.2,No
+1925-XXXXX,Male,0,Yes,Yes,3,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,49.6,148.8,No
+2455-XXXXX,Male,1,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,No,Credit card,78.89,946.68,No
+2066-XXXXX,Female,0,No,Yes,66,No,No phone service,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Mailed check,91.08,6011.28,No
+6894-XXXXX,Female,1,Yes,Yes,68,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,No,Electronic check,87.34,5939.12,No
+8264-XXXXX,Male,0,No,Yes,54,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,No,Mailed check,54.59,2947.86,No
+7512-XXXXX,Female,1,Yes,Yes,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,67.42,741.62,No
+5560-XXXXX,Male,1,Yes,No,19,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,35.59,676.21,No
+1232-XXXXX,Male,0,No,Yes,46,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,62.28,2864.88,Yes
+3400-XXXXX,Female,1,No,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,114.52,3893.68,No
+9742-XXXXX,Male,0,Yes,No,35,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Two year,Yes,Bank transfer,30.51,1067.85,No
+6133-XXXXX,Male,0,Yes,Yes,48,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card,74.4,3571.2,No
+2539-XXXXX,Male,1,Yes,No,59,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card,70.53,4161.27,Yes
+9342-XXXXX,Female,0,No,Yes,32,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,No,Electronic check,100.55,3217.6,No
+5223-XXXXX,Female,0,No,Yes,57,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer,114.19,6508.83,No
+9946-XXXXX,Male,1,No,No,41,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card,67.2,2755.2,Yes
+9448-XXXXX,Male,0,Yes,Yes,3,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Electronic check,93.61,280.83,No
+8008-XXXXX,Female,1,No,Yes,68,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,112.87,7675.16,No
+3128-XXXXX,Male,1,No,Yes,38,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer,41.17,1564.46,No
+9572-XXXXX,Female,0,Yes,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,52.73,2109.2,No
+1648-XXXXX,Male,1,No,No,60,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,47.32,2839.2,No
+1361-XXXXX,Female,1,Yes,Yes,30,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,53.48,1604.4,No
+3006-XXXXX,Male,1,No,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,112.52,7876.4,No
+4932-XXXXX,Female,0,No,Yes,56,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,79.58,4456.48,No
+1143-XXXXX,Female,0,No,No,13,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,117.9,1532.7,Yes
+5494-XXXXX,Male,1,No,Yes,71,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card,64.71,4594.41,Yes
+9840-XXXXX,Female,1,No,Yes,15,Yes,No,DSL,Yes,No,No,No,No,No,Two year,Yes,Mailed check,40.94,614.1,No
+6222-XXXXX,Female,1,No,Yes,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,39.62,554.68,No
+6459-XXXXX,Male,0,No,Yes,56,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,68.43,3832.08,No
+8656-XXXXX,Male,0,No,Yes,41,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,63.91,2620.31,No
+2300-XXXXX,Male,0,Yes,No,69,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,91.36,6303.84,No
+1191-XXXXX,Female,1,Yes,Yes,65,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,36.05,2343.25,No
+2483-XXXXX,Female,1,No,Yes,60,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,Two year,Yes,Mailed check,84.67,5080.2,No
+3403-XXXXX,Female,0,Yes,Yes,3,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,No,Mailed check,97.33,291.99,No
+8079-XXXXX,Female,0,No,No,42,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Bank transfer,85.87,3606.54,No
+2717-XXXXX,Male,0,No,No,58,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer,78.96,4579.68,No
+4732-XXXXX,Female,0,Yes,Yes,30,Yes,No,DSL,No,No,No,Yes,No,Yes,One year,No,Mailed check,25.01,750.3,No
+6939-XXXXX,Male,1,Yes,Yes,13,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,73.66,957.58,No
+9303-XXXXX,Female,0,No,No,18,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,77.19,1389.42,No
+7807-XXXXX,Male,1,Yes,Yes,3,No,No phone service,DSL,Yes,No,No,No,Yes,No,One year,No,Credit card,118.87,356.61,No
+6871-XXXXX,Female,1,No,No,1,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,67.67,67.67,No
+3379-XXXXX,Female,1,Yes,Yes,44,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,36.44,1603.36,No
+2520-XXXXX,Female,1,No,No,71,Yes,No phone service,DSL,No,No,No,No,Yes,No,Two year,No,Bank transfer,101.13,7180.23,No
+5977-XXXXX,Male,1,No,No,51,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card,82.99,4232.49,No
+7592-XXXXX,Female,0,Yes,No,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,59.66,298.3,No
+1029-XXXXX,Female,1,No,Yes,5,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,76.45,382.25,Yes
+2207-XXXXX,Female,0,No,Yes,36,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,113.43,4083.48,No
+3132-XXXXX,Male,0,No,No,42,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,104.97,4408.74,No
+7926-XXXXX,Male,0,No,Yes,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,22.71,249.81,Yes
+3517-XXXXX,Female,0,Yes,Yes,52,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,79.62,4140.24,Yes
+6084-XXXXX,Female,0,Yes,Yes,64,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,109.71,7021.44,No
+4067-XXXXX,Female,1,No,Yes,45,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card,71.86,3233.7,Yes
+7730-XXXXX,Female,1,No,No,61,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Two year,No,Bank transfer,27.66,1687.26,No
+6582-XXXXX,Female,1,No,No,41,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,55.05,2257.05,No
+2851-XXXXX,Female,0,Yes,Yes,10,No,No phone service,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card,105.49,1054.9,No
+3853-XXXXX,Male,0,Yes,No,40,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,94.01,3760.4,No
+5800-XXXXX,Female,1,Yes,Yes,3,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,53.12,159.36,Yes
+1760-XXXXX,Male,0,Yes,No,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,74.18,370.9,Yes
+8128-XXXXX,Female,1,No,No,40,Yes,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,119.75,4790.0,No
+7684-XXXXX,Male,0,Yes,No,22,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer,46.43,1021.46,Yes
+7039-XXXXX,Female,1,No,No,60,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,75.5,4530.0,Yes
+2910-XXXXX,Female,1,Yes,Yes,55,Yes,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Credit card,109.63,6029.65,No
+9571-XXXXX,Female,0,No,No,61,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer,70.66,4310.26,No
+5240-XXXXX,Male,1,No,Yes,28,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,84.69,2371.32,No
+8924-XXXXX,Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,72.15,72.15,No
+3017-XXXXX,Female,0,Yes,Yes,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,36.46,656.28,No
+3166-XXXXX,Female,1,No,Yes,69,No,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Electronic check,115.28,7954.32,No
+7581-XXXXX,Female,0,Yes,No,38,Yes,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,87.58,3328.04,No
+1209-XXXXX,Male,0,No,Yes,38,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,77.99,2963.62,No
+4469-XXXXX,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,82.44,3297.6,No
+2866-XXXXX,Male,1,Yes,No,13,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,114.09,1483.17,Yes
+6714-XXXXX,Male,1,No,Yes,39,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Bank transfer,73.91,2882.49,No
+4689-XXXXX,Male,1,Yes,Yes,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,43.8,1445.4,No
+2024-XXXXX,Female,0,Yes,Yes,35,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer,117.17,4100.95,No
+3393-XXXXX,Male,0,Yes,Yes,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,38.09,190.45,No
+1453-XXXXX,Male,1,No,No,66,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,93.08,6143.28,No
+5712-XXXXX,Male,0,Yes,No,7,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.82,558.74,No
+4717-XXXXX,Female,1,Yes,No,69,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,48.61,3354.09,Yes
+9107-XXXXX,Male,0,No,Yes,32,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,100.88,3228.16,No
+6030-XXXXX,Female,0,No,Yes,35,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,91.31,3195.85,Yes
+9779-XXXXX,Male,0,No,No,37,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer,101.42,3752.54,No
+5920-XXXXX,Male,0,No,No,9,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,Two year,No,Bank transfer,35.39,318.51,No
+5470-XXXXX,Male,1,Yes,Yes,65,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,No,Credit card,83.52,5428.8,No
+5296-XXXXX,Female,0,No,Yes,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,54.89,1701.59,Yes
+3112-XXXXX,Male,1,Yes,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,28.69,975.46,No
+8689-XXXXX,Male,1,Yes,No,11,No,No phone service,DSL,No,No,No,No,Yes,No,One year,Yes,Credit card,87.79,965.69,No
+9832-XXXXX,Female,0,Yes,Yes,28,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,45.21,1265.88,No
+8037-XXXXX,Female,0,No,No,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,68.58,4251.96,No
+8985-XXXXX,Male,0,Yes,Yes,61,No,No phone service,Fiber optic,No,No,No,No,No,No,Two year,No,Credit card,59.27,3615.47,No
+8779-XXXXX,Female,1,Yes,Yes,37,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,103.96,3846.52,No
+2245-XXXXX,Male,0,No,No,42,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card,95.19,3997.98,No
+1705-XXXXX,Male,0,No,No,46,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,116.63,5364.98,No
+6774-XXXXX,Female,1,No,No,3,Yes,No phone service,Fiber optic,No,No,No,Yes,No,Yes,Two year,No,Mailed check,100.96,302.88,No
+9607-XXXXX,Female,1,Yes,No,40,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,No,Electronic check,62.42,2496.8,No
+4516-XXXXX,Female,1,Yes,No,33,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39.26,1295.58,No
+8623-XXXXX,Female,1,Yes,No,48,Yes,No,DSL,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,50.21,2410.08,No
+9270-XXXXX,Male,1,No,Yes,71,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card,24.61,1747.31,No
+2269-XXXXX,Female,1,No,Yes,30,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Credit card,24.06,721.8,No
+7323-XXXXX,Male,1,Yes,No,32,Yes,No,DSL,No,No,No,No,Yes,No,One year,Yes,Electronic check,57.96,1854.72,No
+4004-XXXXX,Male,0,Yes,Yes,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,36.33,1925.49,No
+2493-XXXXX,Female,0,No,No,62,Yes,No phone service,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card,114.66,7108.92,Yes
+2673-XXXXX,Male,1,Yes,Yes,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,35.81,2184.41,No
+2020-XXXXX,Male,1,Yes,No,44,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,88.67,3901.48,No
+5462-XXXXX,Male,1,No,No,33,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Credit card,73.5,2425.5,No
+1533-XXXXX,Female,0,No,No,38,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,22.64,860.32,Yes
+3729-XXXXX,Male,1,No,Yes,18,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,48.25,868.5,Yes
+2811-XXXXX,Female,1,No,Yes,64,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,112.79,7218.56,No
+2527-XXXXX,Male,0,Yes,No,68,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,36.03,2450.04,No
+9787-XXXXX,Male,0,No,No,12,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,48.07,576.84,Yes
+7554-XXXXX,Male,0,No,No,3,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer,77.34,232.02,No
+9623-XXXXX,Female,1,Yes,Yes,12,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Credit card,38.03,456.36,No
+7117-XXXXX,Male,1,No,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,40.54,2108.08,No
+8528-XXXXX,Female,0,Yes,No,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,27.19,1141.98,No
+5734-XXXXX,Male,0,No,Yes,13,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,21.36,277.68,No
+9534-XXXXX,Male,1,Yes,Yes,54,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,63.64,3436.56,No
+1338-XXXXX,Female,0,Yes,No,15,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,82.85,1242.75,No
+1986-XXXXX,Male,1,Yes,Yes,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,82.21,1890.83,No
+8789-XXXXX,Female,0,No,Yes,19,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,37.72,716.68,No
+5911-XXXXX,Female,1,No,Yes,29,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,92.62,2685.98,Yes
+9784-XXXXX,Female,0,No,No,49,No,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,No,Mailed check,67.63,3313.87,No
+4559-XXXXX,Male,0,Yes,No,71,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,54.31,3856.01,Yes
+7483-XXXXX,Female,0,No,No,5,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,69.76,348.8,Yes
+2349-XXXXX,Male,0,No,Yes,39,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,30.28,1180.92,No
+1924-XXXXX,Female,1,Yes,Yes,36,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card,28.22,1015.92,Yes
+4968-XXXXX,Female,1,Yes,No,52,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,No,Bank transfer,39.22,2039.44,No
+8020-XXXXX,Male,1,No,Yes,10,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card,47.8,478.0,Yes
+5452-XXXXX,Male,0,No,Yes,13,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,86.42,1123.46,No
+5357-XXXXX,Female,0,No,No,14,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,113.98,1595.72,No
+8668-XXXXX,Female,1,No,Yes,59,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,21.79,1285.61,No
+3830-XXXXX,Male,1,Yes,Yes,36,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,32.9,1184.4,No
+1879-XXXXX,Male,0,No,Yes,31,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,One year,No,Bank transfer,76.36,2367.16,No
+1496-XXXXX,Female,0,No,No,25,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,66.21,1655.25,No
+3248-XXXXX,Male,0,Yes,Yes,4,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Two year,Yes,Bank transfer,43.13,172.52,No
+4436-XXXXX,Male,0,No,Yes,53,No,No phone service,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,54.91,2910.23,No
+8151-XXXXX,Female,0,Yes,No,19,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Electronic check,49.93,948.67,No
+3619-XXXXX,Male,1,Yes,Yes,21,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,97.33,2043.93,Yes
+3152-XXXXX,Female,1,Yes,No,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,30.16,331.76,No
+3168-XXXXX,Female,1,No,Yes,12,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card,59.7,716.4,Yes
+1463-XXXXX,Male,0,No,Yes,65,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,98.97,6433.05,No
+7557-XXXXX,Female,1,No,No,46,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,111.1,5110.6,No
+3008-XXXXX,Female,0,No,Yes,3,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,54.23,162.69,No
+9645-XXXXX,Female,0,Yes,No,22,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,41.47,912.34,No
+1967-XXXXX,Female,0,No,No,32,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,26.82,858.24,No
+3926-XXXXX,Female,0,No,No,4,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,40.76,163.04,No
+9266-XXXXX,Female,1,No,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,92.97,2882.07,No
+4851-XXXXX,Male,1,Yes,Yes,69,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,32.37,2233.53,No
+6591-XXXXX,Male,1,No,No,17,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card,50.76,862.92,No
+5702-XXXXX,Male,1,No,Yes,69,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,87.77,6056.13,No
+6104-XXXXX,Male,1,No,Yes,30,Yes,No phone service,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Credit card,56.38,1691.4,No
+1927-XXXXX,Female,0,Yes,Yes,19,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,92.2,1751.8,Yes
+7500-XXXXX,Male,1,Yes,Yes,68,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,One year,No,Credit card,66.97,4553.96,No
+1476-XXXXX,Female,1,No,Yes,64,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer,61.88,3960.32,No
+8290-XXXXX,Male,0,No,Yes,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,82.07,5088.34,No
+9989-XXXXX,Female,0,Yes,Yes,47,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,29.42,1382.74,No
+1503-XXXXX,Male,0,No,Yes,45,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,85.84,3862.8,No
+2852-XXXXX,Male,1,Yes,Yes,23,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Bank transfer,111.25,2558.75,No
+1997-XXXXX,Male,1,Yes,Yes,22,No,No phone service,DSL,No,No,No,No,No,No,Two year,Yes,Electronic check,58.16,1279.52,No
+3742-XXXXX,Female,1,No,No,32,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card,21.45,686.4,No
+1880-XXXXX,Female,0,No,No,29,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,69.93,2027.97,No
+5481-XXXXX,Male,0,Yes,Yes,58,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card,37.31,2163.98,No
+3714-XXXXX,Male,1,Yes,Yes,48,Yes,No phone service,DSL,Yes,No,Yes,No,Yes,No,One year,No,Bank transfer,24.71,1186.08,No
+3921-XXXXX,Female,0,Yes,Yes,7,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Bank transfer,93.95,657.65,No
+4966-XXXXX,Female,1,Yes,No,62,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,60.26,3736.12,No
+8984-XXXXX,Male,0,Yes,No,30,Yes,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,36.01,1080.3,No
+5916-XXXXX,Male,1,No,No,5,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer,55.85,279.25,No
+5083-XXXXX,Male,1,Yes,Yes,69,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,34.58,2386.02,No
+3679-XXXXX,Male,1,Yes,No,31,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,101.64,3150.84,No
+9658-XXXXX,Male,0,Yes,Yes,2,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Bank transfer,74.17,148.34,Yes
+7154-XXXXX,Male,1,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,65.59,852.67,No
+7122-XXXXX,Male,1,No,Yes,66,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,86.78,5727.48,Yes
+2129-XXXXX,Female,1,Yes,Yes,29,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,48.55,1407.95,No
+1452-XXXXX,Male,0,No,Yes,52,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,21.39,1112.28,No
+5832-XXXXX,Male,1,No,Yes,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,33.45,1973.55,No
+1115-XXXXX,Male,1,No,No,3,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,83.89,251.67,Yes
+7222-XXXXX,Male,0,Yes,Yes,71,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card,110.62,7854.02,No
+2325-XXXXX,Male,0,Yes,Yes,69,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,113.92,7860.48,No
+4699-XXXXX,Female,0,Yes,No,36,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,One year,Yes,Bank transfer,72.15,2597.4,No
+2881-XXXXX,Female,1,No,Yes,41,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer,67.68,2774.88,No
+6067-XXXXX,Female,0,Yes,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Credit card,23.03,621.81,No
+5147-XXXXX,Female,1,No,No,20,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,75.35,1507.0,No
+7363-XXXXX,Female,0,Yes,Yes,50,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,117.86,5893.0,No
+5318-XXXXX,Male,1,Yes,No,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,44.46,177.84,Yes
+1654-XXXXX,Female,0,No,Yes,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,114.39,7778.52,Yes
+3824-XXXXX,Male,1,No,Yes,29,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,52.98,1536.42,No
+9793-XXXXX,Male,1,Yes,Yes,36,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,57.36,2064.96,No
+1296-XXXXX,Female,0,No,No,17,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,76.1,1293.7,No
+2189-XXXXX,Male,1,No,Yes,37,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer,100.24,3708.88,No
+1206-XXXXX,Male,1,Yes,No,45,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,Two year,Yes,Mailed check,78.44,3529.8,No
+1377-XXXXX,Female,1,Yes,No,1,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,59.4,59.4,No
+3073-XXXXX,Female,0,No,No,55,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,46.91,2580.05,No
+7329-XXXXX,Male,0,No,No,58,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card,113.46,6580.68,No
+8667-XXXXX,Male,0,Yes,No,53,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Mailed check,77.92,4129.76,No
+6549-XXXXX,Female,0,Yes,Yes,40,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,111.58,4463.2,Yes
+5558-XXXXX,Male,1,No,Yes,52,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,95.07,4943.64,Yes
+3463-XXXXX,Female,1,No,No,57,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Mailed check,57.29,3265.53,No
+8104-XXXXX,Male,0,No,No,49,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer,86.69,4247.81,No
+9286-XXXXX,Male,1,Yes,No,55,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Electronic check,108.13,5947.15,No
+5359-XXXXX,Female,1,Yes,No,62,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Two year,No,Bank transfer,63.17,3916.54,No
+5768-XXXXX,Male,0,No,Yes,1,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,No,Mailed check,88.87,88.87,No
+4765-XXXXX,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,24.71,988.4,Yes
+4546-XXXXX,Female,1,No,Yes,49,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No,Two year,No,Credit card,43.78,2145.22,No
+8485-XXXXX,Female,1,No,Yes,23,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card,61.07,1404.61,Yes
+9426-XXXXX,Female,0,No,Yes,55,No,No phone service,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Mailed check,21.24,1168.2,No
+8149-XXXXX,Female,0,Yes,Yes,1,No,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Electronic check,35.26,35.26,No
+5287-XXXXX,Male,1,No,Yes,39,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,Yes,Credit card,41.79,1629.81,No
+4591-XXXXX,Male,0,Yes,No,48,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer,91.07,4371.36,Yes
+5863-XXXXX,Female,1,No,Yes,5,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,No,Credit card,104.61,523.05,No
+2698-XXXXX,Male,0,Yes,No,41,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Mailed check,113.23,4642.43,No
+4298-XXXXX,Female,0,Yes,Yes,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,53.24,2715.24,No
+3412-XXXXX,Male,0,No,No,66,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer,61.96,4089.36,No
+9840-XXXXX,Male,1,Yes,No,65,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer,39.48,2566.2,Yes
+7866-XXXXX,Female,0,No,Yes,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,102.48,3689.28,No
+2445-XXXXX,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,21.38,1496.6,No
+5906-XXXXX,Female,0,No,Yes,19,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,No,Bank transfer,76.66,1456.54,No
+7067-XXXXX,Male,0,Yes,No,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,84.21,1515.78,No
+2980-XXXXX,Male,1,No,No,66,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,100.91,6660.06,No
+5602-XXXXX,Female,1,Yes,No,28,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,40.83,1143.24,Yes
+9889-XXXXX,Male,1,Yes,No,42,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,113.2,4754.4,No
+5084-XXXXX,Female,0,Yes,No,3,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Bank transfer,102.57,307.71,No
+7146-XXXXX,Female,1,No,Yes,39,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Credit card,51.18,1996.02,Yes
+9038-XXXXX,Female,1,Yes,No,14,No,No phone service,DSL,No,No,Yes,No,Yes,No,One year,No,Bank transfer,39.73,556.22,No
+9559-XXXXX,Male,1,Yes,No,10,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Two year,No,Credit card,42.34,423.4,No
+2288-XXXXX,Male,0,Yes,Yes,55,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Credit card,69.43,3818.65,No
+2986-XXXXX,Female,1,No,No,56,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,96.12,5382.72,No
+2818-XXXXX,Female,0,No,No,10,No,No phone service,DSL,Yes,No,No,No,No,Yes,Two year,No,Mailed check,103.59,1035.9,No
+7381-XXXXX,Male,1,Yes,Yes,39,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer,63.0,2457.0,No
+5778-XXXXX,Female,1,Yes,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,46.5,1813.5,Yes
+3173-XXXXX,Female,1,No,Yes,28,No,No phone service,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer,68.5,1918.0,Yes
+8971-XXXXX,Male,1,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,82.76,579.32,No
+3632-XXXXX,Male,1,No,Yes,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,31.81,318.1,No
+5828-XXXXX,Male,1,Yes,Yes,50,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,35.38,1769.0,No
+9722-XXXXX,Female,0,No,Yes,39,No,No phone service,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,110.32,4302.48,No
+5177-XXXXX,Female,1,No,No,51,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,98.85,5041.35,No
+9805-XXXXX,Male,0,Yes,Yes,26,Yes,No phone service,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,61.0,1586.0,No
+4478-XXXXX,Female,0,No,Yes,56,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card,77.68,4350.08,Yes
+3699-XXXXX,Female,1,No,Yes,51,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,81.05,4133.55,No
+3257-XXXXX,Male,1,Yes,Yes,17,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,61.32,1042.44,No
+2434-XXXXX,Male,0,No,Yes,69,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Electronic check,32.11,2215.59,No
+8164-XXXXX,Male,1,No,No,18,No,No phone service,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Electronic check,95.48,1718.64,No
+3907-XXXXX,Female,1,Yes,Yes,27,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card,104.99,2834.73,Yes
+1300-XXXXX,Male,1,Yes,No,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,49.64,2829.48,No
+7527-XXXXX,Female,0,Yes,No,66,No,No phone service,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Credit card,40.46,2670.36,No
+6794-XXXXX,Male,0,No,No,4,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,80.97,323.88,No
+8204-XXXXX,Female,0,Yes,No,39,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,87.44,3410.16,Yes
+1746-XXXXX,Female,0,No,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,38.84,310.72,No
+1014-XXXXX,Female,0,Yes,No,8,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,47.32,378.56,Yes
+9761-XXXXX,Male,1,Yes,Yes,6,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,82.94,497.64,No
+2927-XXXXX,Male,0,No,No,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,72.55,1088.25,No
+4357-XXXXX,Male,0,Yes,No,70,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,84.64,5924.8,No
+1619-XXXXX,Female,0,No,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,30.69,1043.46,Yes
+3369-XXXXX,Male,0,No,Yes,8,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,72.91,583.28,No
+7849-XXXXX,Female,0,Yes,No,53,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,91.09,4827.77,No
+2615-XXXXX,Male,1,Yes,Yes,68,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,21.75,1479.0,No
+8899-XXXXX,Female,0,No,No,70,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer,97.42,6819.4,Yes
+1235-XXXXX,Female,0,No,Yes,22,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,20.79,457.38,No
+6783-XXXXX,Female,1,No,No,60,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,71.86,4311.6,No
+2482-XXXXX,Female,0,Yes,No,0,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,60.97,0.0,No
+8150-XXXXX,Female,1,No,No,50,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,No,Bank transfer,78.39,3919.5,No
+8061-XXXXX,Female,0,Yes,Yes,47,No,No phone service,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,87.62,4118.14,Yes
+4714-XXXXX,Female,0,Yes,Yes,62,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card,117.7,7297.4,No
+5783-XXXXX,Female,1,Yes,No,72,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Two year,No,Mailed check,86.51,6228.72,No
+1658-XXXXX,Male,0,No,No,52,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,84.91,4415.32,No
+6160-XXXXX,Female,1,Yes,Yes,44,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Mailed check,96.07,4227.08,No
+6199-XXXXX,Female,1,Yes,No,13,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Electronic check,98.19,1276.47,No
+8879-XXXXX,Male,1,No,No,59,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,80.4,4743.6,No
+6855-XXXXX,Male,0,No,No,20,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,No,Credit card,62.34,1246.8,No
+6421-XXXXX,Female,0,Yes,No,1,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card,66.73,66.73,Yes
+1119-XXXXX,Male,0,No,Yes,20,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,62.92,1258.4,No
+8444-XXXXX,Female,1,Yes,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,97.71,1270.23,No
+1167-XXXXX,Female,0,Yes,No,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,115.96,4870.32,No
+1042-XXXXX,Male,1,No,No,61,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,99.98,6098.78,No
+1792-XXXXX,Female,0,No,No,31,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,35.3,1094.3,No
+6641-XXXXX,Male,1,No,No,60,Yes,No phone service,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Bank transfer,70.09,4205.4,No
+2415-XXXXX,Female,0,Yes,Yes,23,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,32.65,750.95,No
+9168-XXXXX,Male,0,Yes,No,53,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,One year,No,Credit card,83.81,4441.93,No
+6462-XXXXX,Female,1,No,No,20,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card,22.26,445.2,No
+8256-XXXXX,Female,0,No,No,5,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,72.7,363.5,No
+4590-XXXXX,Male,0,Yes,No,10,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card,53.81,538.1,No
+2517-XXXXX,Male,0,Yes,Yes,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,87.83,3688.86,No
+3659-XXXXX,Male,0,Yes,No,32,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,96.89,3100.48,No
+8895-XXXXX,Female,0,Yes,Yes,52,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Two year,No,Mailed check,107.21,5574.92,No
+2236-XXXXX,Female,0,Yes,No,29,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,27.06,784.74,No
+1251-XXXXX,Male,1,Yes,Yes,26,Yes,No,Fiber optic,No,No,No,Yes,No,No,Two year,Yes,Electronic check,114.94,2988.44,No
+1529-XXXXX,Female,1,No,Yes,30,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,74.0,2220.0,Yes
+2862-XXXXX,Male,0,No,Yes,72,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,65.11,4687.92,No
+3135-XXXXX,Female,1,Yes,Yes,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,99.54,1094.94,Yes
+8801-XXXXX,Female,0,Yes,Yes,19,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Bank transfer,92.52,1757.88,No
+5472-XXXXX,Female,0,No,Yes,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,55.35,2047.95,No
+4855-XXXXX,Female,1,No,No,57,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Mailed check,87.08,4963.56,No
+4131-XXXXX,Male,0,Yes,No,22,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer,45.16,993.52,No
+6796-XXXXX,Male,0,Yes,No,12,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,81.21,974.52,No
+8629-XXXXX,Male,0,Yes,Yes,42,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,110.28,4631.76,No
+1261-XXXXX,Male,1,No,Yes,13,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Credit card,81.77,1063.01,No
+1278-XXXXX,Male,1,Yes,No,48,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,One year,No,Mailed check,88.15,4231.2,No
+7752-XXXXX,Female,1,Yes,Yes,40,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,64.79,2591.6,No
+3473-XXXXX,Male,0,No,No,27,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.37,1899.99,Yes
+9396-XXXXX,Female,1,Yes,Yes,10,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,99.45,994.5,No
+9845-XXXXX,Male,1,Yes,Yes,25,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,98.66,2466.5,No
+1070-XXXXX,Male,1,No,Yes,3,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer,24.48,73.44,No
+9844-XXXXX,Male,1,No,Yes,13,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Credit card,35.06,455.78,No
+8170-XXXXX,Male,1,Yes,Yes,52,No,No phone service,DSL,No,No,Yes,No,Yes,No,One year,Yes,Bank transfer,54.09,2812.68,No
+4342-XXXXX,Male,0,Yes,No,13,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer,53.67,697.71,No
+5417-XXXXX,Male,0,No,Yes,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,51.34,1540.2,No
+9377-XXXXX,Male,0,No,No,35,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,112.05,3921.75,No
+3400-XXXXX,Male,1,No,No,44,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,102.9,4527.6,No
+5214-XXXXX,Female,1,No,Yes,12,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,24.97,299.64,No
+7527-XXXXX,Male,1,No,No,70,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,22.52,1576.4,No
+4945-XXXXX,Male,0,No,Yes,17,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,61.88,1051.96,No
+6118-XXXXX,Male,0,No,Yes,16,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,66.76,1068.16,No
+9558-XXXXX,Male,0,No,Yes,5,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card,29.72,148.6,No
+4859-XXXXX,Male,0,Yes,No,9,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,Two year,No,Credit card,83.6,752.4,No
+5652-XXXXX,Male,0,No,No,42,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,39.65,1665.3,No
+2447-XXXXX,Male,0,No,Yes,69,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Credit card,85.97,5931.93,No
+2537-XXXXX,Female,0,Yes,No,42,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,No,Electronic check,51.8,2175.6,No
+4692-XXXXX,Female,1,No,No,23,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card,110.19,2534.37,Yes
+2976-XXXXX,Male,1,Yes,Yes,69,Yes,No phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,35.93,2479.17,No
+3722-XXXXX,Male,1,Yes,No,8,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,53.42,427.36,No
+2847-XXXXX,Female,1,No,Yes,13,No,No phone service,DSL,No,Yes,Yes,No,No,No,Two year,Yes,Bank transfer,113.32,1473.16,No
+5550-XXXXX,Female,1,Yes,Yes,13,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,101.53,1319.89,No
+9153-XXXXX,Male,0,Yes,No,14,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer,46.68,653.52,No
+1359-XXXXX,Male,1,No,No,5,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,26.22,131.1,No
+1212-XXXXX,Male,0,No,No,42,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,45.27,1901.34,Yes
+2259-XXXXX,Male,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,36.76,551.4,No
+5056-XXXXX,Female,1,Yes,Yes,14,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,92.79,1299.06,No
+9075-XXXXX,Female,1,No,Yes,55,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card,63.21,3476.55,No
+9406-XXXXX,Female,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,104.14,520.7,No
+2601-XXXXX,Female,1,Yes,No,49,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Bank transfer,69.77,3418.73,No
+2040-XXXXX,Female,1,No,No,28,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Credit card,68.33,1913.24,No
+7135-XXXXX,Female,0,Yes,Yes,65,Yes,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer,101.24,6580.6,Yes
+3315-XXXXX,Male,0,Yes,No,69,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,29.6,2042.4,Yes
+1417-XXXXX,Female,0,Yes,No,42,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,21.24,892.08,No
+5304-XXXXX,Female,1,Yes,No,21,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card,119.08,2500.68,No
+3787-XXXXX,Female,1,No,Yes,12,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,24.84,298.08,No
+2511-XXXXX,Female,1,No,Yes,13,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,77.09,1002.17,Yes
+9590-XXXXX,Male,0,Yes,No,45,No,No phone service,Fiber optic,No,No,No,Yes,No,No,Two year,Yes,Mailed check,59.95,2697.75,No
+1336-XXXXX,Male,0,No,Yes,2,No,No phone service,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Bank transfer,54.38,108.76,No
+2060-XXXXX,Male,1,No,No,29,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,44.37,1286.73,Yes
+7824-XXXXX,Female,0,No,No,53,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,84.8,4494.4,No
+8608-XXXXX,Male,0,Yes,Yes,54,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,48.96,2643.84,No
+6192-XXXXX,Female,1,Yes,No,71,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Two year,Yes,Credit card,99.58,7070.18,No
+3331-XXXXX,Female,0,Yes,Yes,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,84.3,1264.5,No
+4481-XXXXX,Female,0,No,No,6,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Two year,No,Credit card,44.09,264.54,No
+7896-XXXXX,Female,0,No,No,24,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,40.31,967.44,No
+6507-XXXXX,Male,1,Yes,No,41,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card,35.65,1461.65,No
+4895-XXXXX,Male,0,No,Yes,55,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Credit card,81.81,4499.55,No
+2530-XXXXX,Male,1,No,No,30,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,20.35,610.5,No
+9090-XXXXX,Male,1,No,No,62,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,73.56,4560.72,No
+1786-XXXXX,Female,1,Yes,Yes,60,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,115.83,6949.8,No
+1048-XXXXX,Female,0,No,Yes,70,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,31.85,2229.5,No
+6216-XXXXX,Female,1,No,No,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,96.17,1442.55,No
+1460-XXXXX,Male,1,Yes,No,56,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer,81.61,4570.16,No
+1865-XXXXX,Female,1,No,Yes,47,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card,93.11,4376.17,No
+5776-XXXXX,Female,1,No,Yes,33,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,105.7,3488.1,Yes
+8042-XXXXX,Male,0,No,Yes,26,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Bank transfer,47.28,1229.28,No
+1442-XXXXX,Female,1,No,No,24,No,No phone service,Fiber optic,No,Yes,No,No,No,No,One year,No,Credit card,50.72,1217.28,No
+1430-XXXXX,Female,0,No,No,67,Yes,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,70.46,4720.82,No
+6452-XXXXX,Male,0,No,No,15,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Credit card,105.56,1583.4,No
+8921-XXXXX,Female,0,Yes,Yes,31,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer,74.91,2322.21,No
+7553-XXXXX,Male,1,No,No,32,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer,59.69,1910.08,No
+1838-XXXXX,Female,0,Yes,Yes,56,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,29.19,1634.64,No
+6518-XXXXX,Female,1,No,Yes,49,No,No phone service,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Bank transfer,32.36,1585.64,No
+4999-XXXXX,Male,0,No,Yes,58,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer,90.1,5225.8,Yes
+1179-XXXXX,Male,1,No,No,52,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card,110.75,5759.0,No
+3255-XXXXX,Female,0,Yes,Yes,21,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,34.01,714.21,No
+3942-XXXXX,Female,0,Yes,Yes,70,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,52.68,3687.6,Yes
+7276-XXXXX,Female,1,No,No,39,No,No phone service,DSL,No,No,No,Yes,No,No,Two year,Yes,Credit card,55.02,2145.78,No
+4250-XXXXX,Female,0,No,Yes,65,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Electronic check,26.13,1698.45,No
+6375-XXXXX,Male,0,Yes,No,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,92.83,2784.9,No
+4407-XXXXX,Female,0,No,No,71,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Two year,No,Credit card,68.39,4855.69,No
+1811-XXXXX,Female,0,Yes,No,28,No,No phone service,DSL,No,No,No,No,Yes,Yes,One year,No,Credit card,84.14,2355.92,No
+6784-XXXXX,Female,0,No,Yes,30,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,77.92,2337.6,No
+8588-XXXXX,Female,1,Yes,No,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,57.41,3042.73,No
+9763-XXXXX,Male,0,No,Yes,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,38.73,697.14,Yes
+4926-XXXXX,Male,1,No,No,51,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,23.43,1194.93,No
+3929-XXXXX,Female,0,Yes,Yes,43,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,96.87,4165.41,No
+3913-XXXXX,Female,0,No,No,37,Yes,No phone service,DSL,Yes,No,No,No,Yes,Yes,Two year,No,Mailed check,56.86,2103.82,No
+3976-XXXXX,Female,1,No,No,43,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,No,Mailed check,46.77,2011.11,No
+9818-XXXXX,Female,0,Yes,Yes,7,No,No phone service,DSL,No,No,No,No,Yes,No,One year,Yes,Mailed check,26.57,185.99,No
+3644-XXXXX,Male,1,Yes,No,7,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Two year,No,Electronic check,56.46,395.22,No
+4075-XXXXX,Female,1,No,No,65,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,No,Electronic check,84.2,5473.0,No
+9667-XXXXX,Female,1,Yes,No,55,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,86.3,4746.5,No
+2576-XXXXX,Male,1,No,Yes,57,Yes,No phone service,DSL,Yes,No,No,No,Yes,Yes,Two year,Yes,Electronic check,87.35,4978.95,No
+5114-XXXXX,Female,1,Yes,Yes,8,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer,93.13,745.04,No
+9764-XXXXX,Female,0,Yes,No,58,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,46.09,2673.22,Yes
+5521-XXXXX,Male,1,No,Yes,35,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,35.92,1257.2,No
+4058-XXXXX,Male,1,Yes,Yes,31,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer,35.96,1114.76,No
+7307-XXXXX,Male,0,Yes,Yes,61,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,68.67,4188.87,No
+8475-XXXXX,Female,0,No,Yes,57,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,31.52,1796.64,No
+8674-XXXXX,Male,0,Yes,Yes,20,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,112.78,2255.6,No
+1603-XXXXX,Female,1,Yes,Yes,65,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Bank transfer,26.77,1740.05,No
+4805-XXXXX,Male,0,No,No,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,91.03,4096.35,Yes
+5525-XXXXX,Male,1,Yes,Yes,1,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,65.11,65.11,No
+6850-XXXXX,Male,0,Yes,No,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,45.74,1555.16,No
+4697-XXXXX,Female,1,Yes,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,89.38,3307.06,No
+7403-XXXXX,Female,0,Yes,Yes,12,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,33.92,407.04,No
+9038-XXXXX,Male,0,Yes,Yes,55,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,30.61,1683.55,No
+9411-XXXXX,Male,1,Yes,No,9,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Mailed check,116.75,1050.75,No
+9656-XXXXX,Male,1,No,No,28,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,58.16,1628.48,No
+7451-XXXXX,Male,1,Yes,No,37,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card,42.43,1569.91,No
+9216-XXXXX,Male,1,No,Yes,15,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,94.12,1411.8,Yes
+1522-XXXXX,Male,1,No,Yes,39,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Bank transfer,20.01,780.39,No
+6063-XXXXX,Male,1,No,No,16,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Two year,No,Electronic check,67.7,1083.2,No
+4482-XXXXX,Male,1,Yes,Yes,8,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,34.98,279.84,No
+4810-XXXXX,Male,0,Yes,No,37,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,72.75,2691.75,Yes
+9488-XXXXX,Female,1,Yes,Yes,25,Yes,No phone service,DSL,No,Yes,No,No,No,No,One year,Yes,Bank transfer,38.03,950.75,No
+7293-XXXXX,Male,0,No,No,7,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,81.72,572.04,Yes
+5734-XXXXX,Female,1,Yes,No,25,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card,78.72,1968.0,No
+2043-XXXXX,Male,1,Yes,No,35,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,Yes,Mailed check,33.82,1183.7,No
+5731-XXXXX,Female,0,Yes,Yes,70,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,23.21,1624.7,No
+5658-XXXXX,Female,0,No,No,35,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,118.62,4151.7,No
+9709-XXXXX,Male,1,No,No,72,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,98.53,7094.16,No
+5798-XXXXX,Male,0,No,Yes,46,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,37.88,1742.48,No
+5339-XXXXX,Female,1,No,Yes,66,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,74.75,4933.5,No
+1692-XXXXX,Female,0,Yes,Yes,50,Yes,Yes,DSL,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer,69.61,3480.5,No
+5419-XXXXX,Female,1,No,No,25,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,One year,No,Electronic check,106.77,2669.25,No
+9634-XXXXX,Female,1,Yes,Yes,34,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,30.63,1041.42,No
+7949-XXXXX,Female,0,Yes,Yes,22,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card,116.95,2572.9,Yes
+3428-XXXXX,Female,0,No,No,65,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Mailed check,87.44,5683.6,No
+7915-XXXXX,Female,0,Yes,No,24,No,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Bank transfer,36.01,864.24,No
+6842-XXXXX,Male,0,No,Yes,58,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,One year,No,Mailed check,46.4,2691.2,No
+1909-XXXXX,Female,1,Yes,Yes,16,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer,52.27,836.32,No
+2125-XXXXX,Male,1,Yes,Yes,56,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,27.3,1528.8,No
+8109-XXXXX,Male,1,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card,37.08,1928.16,Yes
+5156-XXXXX,Male,1,Yes,Yes,68,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,24.72,1680.96,No
+9829-XXXXX,Female,0,Yes,No,47,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,31.98,1503.06,Yes
+4756-XXXXX,Male,0,No,No,69,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,66.0,4554.0,No
+6246-XXXXX,Female,1,Yes,No,49,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,59.89,2934.61,Yes
+2143-XXXXX,Female,0,Yes,No,66,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,115.2,7603.2,No
+7461-XXXXX,Male,0,Yes,No,32,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,50.53,1616.96,No
+7741-XXXXX,Female,1,Yes,Yes,23,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,61.21,1407.83,Yes
+3419-XXXXX,Male,0,Yes,No,13,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,82.65,1074.45,No
+7383-XXXXX,Male,1,No,No,32,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,40.03,1280.96,No
+1134-XXXXX,Male,0,Yes,Yes,24,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,52.13,1251.12,No
+6560-XXXXX,Male,0,No,No,58,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,45.36,2630.88,No
+2888-XXXXX,Female,1,No,No,44,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,91.91,4044.04,No
+7392-XXXXX,Male,1,No,No,18,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,107.33,1931.94,No
+8141-XXXXX,Female,0,Yes,Yes,57,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,59.62,3398.34,Yes
+5813-XXXXX,Female,0,Yes,No,61,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,105.21,6417.81,No
+9756-XXXXX,Female,0,No,Yes,0,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,30.34,0.0,No
+1133-XXXXX,Male,0,Yes,No,35,Yes,No phone service,Fiber optic,No,No,No,No,Yes,Yes,Two year,Yes,Mailed check,69.19,2421.65,No
+1680-XXXXX,Female,0,Yes,No,8,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,61.44,491.52,No
+9528-XXXXX,Male,0,No,Yes,40,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Mailed check,29.83,1193.2,No
+1628-XXXXX,Female,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,111.15,2445.3,No
+8565-XXXXX,Female,0,Yes,No,71,No,No phone service,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card,41.23,2927.33,Yes
+4083-XXXXX,Male,1,No,No,17,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Bank transfer,38.52,654.84,No
+5648-XXXXX,Female,0,Yes,No,14,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,47.56,665.84,No
+2268-XXXXX,Male,0,No,No,65,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,73.6,4784.0,No
+3944-XXXXX,Male,0,No,Yes,53,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,62.86,3331.58,Yes
+6375-XXXXX,Female,0,No,Yes,44,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card,114.32,5030.08,No
+3759-XXXXX,Female,0,Yes,No,49,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,Two year,No,Mailed check,56.8,2783.2,No
+6129-XXXXX,Male,1,Yes,No,34,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,106.08,3606.72,No
+1641-XXXXX,Female,1,Yes,Yes,43,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,92.95,3996.85,No
+4956-XXXXX,Male,1,No,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,68.46,4176.06,No
+1622-XXXXX,Male,1,No,Yes,50,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,76.37,3818.5,No
+7262-XXXXX,Male,0,No,Yes,19,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,65.75,1249.25,No
+8450-XXXXX,Male,1,Yes,Yes,6,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Electronic check,21.15,126.9,No
+7253-XXXXX,Female,0,No,No,31,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,117.21,3633.51,No
+8158-XXXXX,Male,0,No,Yes,7,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,65.53,458.71,No
+8515-XXXXX,Female,1,No,No,24,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,29.19,700.56,Yes
+5954-XXXXX,Female,1,Yes,No,63,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,35.47,2234.61,No
+1649-XXXXX,Female,1,No,No,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,62.14,3044.86,Yes
+1997-XXXXX,Female,0,No,Yes,13,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,72.36,940.68,Yes
+2245-XXXXX,Male,0,Yes,No,38,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,68.62,2607.56,No
+1867-XXXXX,Male,0,Yes,No,2,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,51.8,103.6,No
+8734-XXXXX,Male,0,No,Yes,29,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card,99.7,2891.3,No
+3002-XXXXX,Female,1,No,Yes,27,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card,64.27,1735.29,No
+3560-XXXXX,Male,0,No,No,23,No,No phone service,DSL,No,No,No,No,Yes,Yes,Two year,No,Electronic check,97.43,2240.89,No
+5072-XXXXX,Male,1,No,No,1,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,77.11,77.11,No
+2169-XXXXX,Female,1,Yes,No,37,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,58.4,2160.8,No
+5085-XXXXX,Male,0,No,Yes,0,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,83.9,0.0,No
+6972-XXXXX,Male,0,No,No,25,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,80.18,2004.5,No
+1804-XXXXX,Male,0,Yes,No,55,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,38.51,2118.05,No
+3687-XXXXX,Male,1,Yes,Yes,18,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer,81.58,1468.44,No
+6382-XXXXX,Male,0,Yes,No,34,No,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,62.01,2108.34,No
+1714-XXXXX,Female,1,Yes,Yes,21,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,One year,Yes,Credit card,109.34,2296.14,No
+2917-XXXXX,Female,1,Yes,Yes,42,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Credit card,28.23,1185.66,No
+7690-XXXXX,Male,0,Yes,Yes,35,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,97.56,3414.6,No
+1582-XXXXX,Male,1,Yes,No,15,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,111.4,1671.0,No
+5761-XXXXX,Male,0,No,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,107.64,1829.88,No
+1664-XXXXX,Male,0,Yes,No,37,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,84.17,3114.29,No
+1422-XXXXX,Female,1,No,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,28.95,1650.15,Yes
+9097-XXXXX,Female,1,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,36.44,36.44,No
+1566-XXXXX,Male,0,Yes,Yes,23,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,68.72,1580.56,No
+9917-XXXXX,Female,0,Yes,Yes,9,Yes,No phone service,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,97.74,879.66,No
+1181-XXXXX,Male,0,No,No,10,No,No phone service,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card,65.61,656.1,No
+5769-XXXXX,Male,1,Yes,Yes,46,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,38.42,1767.32,No
+3164-XXXXX,Female,1,Yes,No,25,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,49.0,1225.0,No
+2995-XXXXX,Male,0,No,Yes,55,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,110.15,6058.25,No
+6504-XXXXX,Female,0,Yes,No,66,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Bank transfer,80.13,5288.58,No
+6744-XXXXX,Female,1,Yes,Yes,1,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,27.65,27.65,No
+8363-XXXXX,Female,1,No,No,26,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,67.61,1757.86,Yes
+1510-XXXXX,Female,1,No,Yes,6,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,22.18,133.08,Yes
+9347-XXXXX,Female,0,Yes,No,20,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,43.29,865.8,Yes
+3149-XXXXX,Female,1,Yes,No,46,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer,69.56,3199.76,No
+8915-XXXXX,Female,0,No,Yes,27,No,No phone service,DSL,No,No,No,No,No,No,Two year,Yes,Electronic check,105.01,2835.27,No
+6563-XXXXX,Male,0,Yes,Yes,16,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,No,Electronic check,81.46,1303.36,No
+8681-XXXXX,Female,1,Yes,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,76.12,3653.76,No
+2790-XXXXX,Female,1,No,Yes,20,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card,106.7,2134.0,No
+2167-XXXXX,Female,1,No,No,7,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,39.68,277.76,No
+5518-XXXXX,Female,0,Yes,No,15,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,79.39,1190.85,No
+3508-XXXXX,Female,1,No,No,61,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,104.04,6346.44,No
+4467-XXXXX,Female,1,Yes,Yes,64,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,74.56,4771.84,Yes
+1501-XXXXX,Female,0,No,No,62,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card,81.25,5037.5,Yes
+9861-XXXXX,Female,0,No,Yes,61,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,53.5,3263.5,No
+1519-XXXXX,Male,1,Yes,No,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,52.12,2293.28,No
+4794-XXXXX,Female,0,No,Yes,43,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,No,Credit card,68.45,2943.35,No
+1692-XXXXX,Male,0,Yes,No,36,Yes,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer,48.34,1740.24,No
+3192-XXXXX,Male,0,No,Yes,3,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,42.21,126.63,No
+5477-XXXXX,Female,0,No,Yes,69,No,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card,51.07,3523.83,No
+7026-XXXXX,Female,0,No,No,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,112.41,2473.02,Yes
+2659-XXXXX,Female,0,Yes,No,69,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,66.4,4581.6,No
+8968-XXXXX,Female,0,No,No,47,No,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,30.74,1444.78,No
+5259-XXXXX,Female,0,No,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,28.63,973.42,No
+2061-XXXXX,Female,0,Yes,No,64,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,35.71,2285.44,No
+4821-XXXXX,Male,0,No,No,14,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,115.39,1615.46,No
+1141-XXXXX,Female,0,No,No,31,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card,62.44,1935.64,No
+9698-XXXXX,Female,1,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,26.88,1397.76,No
+1740-XXXXX,Female,1,No,Yes,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,42.64,2473.12,No
+1294-XXXXX,Female,0,No,Yes,23,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,89.94,2068.62,Yes
+6990-XXXXX,Female,1,No,No,50,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer,71.88,3594.0,No
+2373-XXXXX,Female,1,Yes,No,40,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,72.72,2908.8,No
+4427-XXXXX,Female,0,No,Yes,68,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,59.93,4075.24,Yes
+6329-XXXXX,Male,0,Yes,Yes,36,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card,42.13,1516.68,No
+8970-XXXXX,Male,0,Yes,No,48,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,67.65,3247.2,No
+5158-XXXXX,Male,1,No,No,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,20.86,876.12,Yes
+7529-XXXXX,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,60.84,4380.48,Yes
+7064-XXXXX,Male,0,No,Yes,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,91.89,3308.04,Yes
+8458-XXXXX,Female,0,Yes,Yes,6,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,113.54,681.24,No
+4171-XXXXX,Male,1,Yes,No,6,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Two year,Yes,Electronic check,25.12,150.72,No
+6379-XXXXX,Male,0,Yes,No,20,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,108.38,2167.6,No
+8738-XXXXX,Female,1,Yes,Yes,60,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,No,Bank transfer,78.24,4694.4,No
+6627-XXXXX,Male,0,No,No,52,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,102.05,5306.6,No
+8952-XXXXX,Female,0,No,Yes,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,94.58,5485.64,No
+2994-XXXXX,Female,1,No,Yes,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,28.43,1933.24,Yes
+1966-XXXXX,Female,1,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,35.08,245.56,No
+8529-XXXXX,Female,0,No,Yes,70,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,21.82,1527.4,No
+9882-XXXXX,Male,0,No,No,24,Yes,Yes,DSL,No,Yes,No,No,No,No,Two year,No,Electronic check,63.95,1534.8,No
+5569-XXXXX,Female,1,No,No,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,68.78,343.9,No
+4123-XXXXX,Female,0,No,No,56,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,44.03,2465.68,Yes
+6850-XXXXX,Male,0,No,Yes,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,63.6,63.6,No
+7558-XXXXX,Female,1,Yes,No,24,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,101.11,2426.64,No
+9704-XXXXX,Male,1,No,No,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,114.99,3564.69,No
+1048-XXXXX,Male,0,Yes,Yes,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,56.74,226.96,No
+7797-XXXXX,Female,1,No,No,25,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,116.25,2906.25,No
+1573-XXXXX,Male,0,No,Yes,9,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,One year,No,Bank transfer,112.08,1008.72,No
+1420-XXXXX,Male,0,No,No,47,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,No,Mailed check,25.39,1193.33,No
+1007-XXXXX,Male,0,No,No,10,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,117.64,1176.4,No
+3853-XXXXX,Male,0,Yes,Yes,40,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,92.73,3709.2,No
+7889-XXXXX,Female,1,No,No,50,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Bank transfer,102.2,5110.0,No
+2085-XXXXX,Male,1,No,No,46,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,65.82,3027.72,No
+7919-XXXXX,Female,1,No,Yes,59,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,One year,No,Mailed check,57.44,3388.96,No
+6472-XXXXX,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card,62.84,4084.6,No
+8701-XXXXX,Male,0,Yes,No,65,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card,48.59,3158.35,No
+2243-XXXXX,Female,0,No,Yes,0,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,25.23,0.0,No
+5313-XXXXX,Female,0,Yes,No,26,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,70.12,1823.12,No
+9866-XXXXX,Male,1,Yes,Yes,15,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,No,Credit card,28.02,420.3,No
+4853-XXXXX,Female,1,Yes,Yes,25,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,53.39,1334.75,Yes
+6570-XXXXX,Female,0,Yes,No,37,No,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,57.61,2131.57,Yes
+6882-XXXXX,Male,1,Yes,Yes,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,105.04,6932.64,No
+4592-XXXXX,Female,1,No,No,24,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,106.87,2564.88,No
+4573-XXXXX,Female,0,Yes,Yes,33,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Mailed check,31.79,1049.07,No
+8092-XXXXX,Male,1,No,Yes,2,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,No,Bank transfer,40.75,81.5,No
+1277-XXXXX,Male,1,No,Yes,60,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Bank transfer,47.67,2860.2,No
+2642-XXXXX,Female,0,Yes,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,46.69,2941.47,No
+2665-XXXXX,Female,1,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,55.09,275.45,No
+7098-XXXXX,Male,1,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Credit card,49.55,2328.85,No
+9337-XXXXX,Male,0,No,Yes,52,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Two year,No,Mailed check,51.33,2669.16,No
+1392-XXXXX,Male,0,No,No,54,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer,75.23,4062.42,No
+2555-XXXXX,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,One year,No,Credit card,36.85,1584.55,No
+8725-XXXXX,Male,0,Yes,Yes,49,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,119.1,5835.9,No
+6865-XXXXX,Female,0,Yes,No,64,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card,109.67,7018.88,No
+9234-XXXXX,Female,1,Yes,Yes,22,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Credit card,50.45,1109.9,No
+5000-XXXXX,Female,1,Yes,Yes,67,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,42.77,2865.59,No
+1098-XXXXX,Female,0,No,Yes,21,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,48.57,1019.97,No
+1714-XXXXX,Female,1,No,No,48,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Credit card,74.51,3576.48,No
+9804-XXXXX,Male,1,No,No,66,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,58.63,3869.58,No
+4482-XXXXX,Female,0,No,No,50,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Bank transfer,112.48,5624.0,No
+4999-XXXXX,Male,1,No,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,88.95,2134.8,Yes
+6781-XXXXX,Female,1,No,Yes,5,No,No phone service,Fiber optic,No,No,No,No,Yes,No,Two year,Yes,Mailed check,64.4,322.0,No
+9946-XXXXX,Male,1,Yes,No,27,No,No phone service,DSL,No,No,No,No,Yes,No,One year,No,Bank transfer,46.22,1247.94,No
+3482-XXXXX,Female,0,Yes,Yes,10,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,72.62,726.2,No
+5162-XXXXX,Male,0,No,Yes,52,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Credit card,23.78,1236.56,No
+4590-XXXXX,Male,1,Yes,No,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,55.16,1709.96,No
+4475-XXXXX,Female,1,No,Yes,70,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer,104.24,7296.8,No
+9750-XXXXX,Male,1,No,Yes,65,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,116.47,7570.55,Yes
+2756-XXXXX,Female,0,Yes,Yes,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,103.52,7039.36,No
+3418-XXXXX,Female,1,Yes,Yes,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,53.36,1654.16,No
+3793-XXXXX,Female,0,No,No,4,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Credit card,24.69,98.76,No
+6505-XXXXX,Female,1,No,Yes,56,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,93.55,5238.8,No
+7937-XXXXX,Male,0,No,No,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,105.88,4341.08,No
+7893-XXXXX,Male,1,Yes,No,30,Yes,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,83.42,2502.6,No
+7031-XXXXX,Female,0,No,Yes,7,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,44.97,314.79,No
+4417-XXXXX,Male,0,Yes,No,25,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,66.26,1656.5,No
+4351-XXXXX,Male,1,No,No,65,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,88.99,5784.35,No
+7125-XXXXX,Female,0,Yes,Yes,15,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,116.9,1753.5,No
+6759-XXXXX,Male,0,No,Yes,53,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,54.92,2910.76,No
+7321-XXXXX,Male,0,Yes,No,69,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,Yes,Credit card,24.29,1676.01,No
+1870-XXXXX,Female,0,No,No,27,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Bank transfer,114.85,3100.95,No
+2493-XXXXX,Male,0,Yes,No,15,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,80.11,1201.65,Yes
+8228-XXXXX,Female,1,No,Yes,42,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Two year,No,Mailed check,86.74,3643.08,No
+8950-XXXXX,Male,0,Yes,Yes,28,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,57.73,1616.44,No
+6399-XXXXX,Female,0,No,No,64,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer,26.71,1709.44,No
+5065-XXXXX,Female,0,No,No,19,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,No,Bank transfer,60.22,1144.18,No
+8553-XXXXX,Male,1,Yes,Yes,53,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Two year,No,Mailed check,79.35,4205.55,No
+9906-XXXXX,Female,0,Yes,Yes,65,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Mailed check,102.25,6646.25,No
+5170-XXXXX,Male,1,Yes,No,7,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer,106.92,748.44,No
+2736-XXXXX,Female,1,No,No,12,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer,71.81,861.72,No
+6242-XXXXX,Male,0,No,Yes,39,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Credit card,119.93,4677.27,Yes
+2216-XXXXX,Male,1,Yes,No,32,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,99.91,3197.12,No
+5428-XXXXX,Female,1,Yes,Yes,32,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,43.95,1406.4,No
+5547-XXXXX,Female,1,No,Yes,55,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card,86.57,4761.35,No
+6606-XXXXX,Male,1,No,No,23,No,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,62.9,1446.7,No
+7049-XXXXX,Male,1,No,No,59,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,72.92,4302.28,No
+9619-XXXXX,Female,0,No,No,37,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,46.6,1724.2,Yes
+7639-XXXXX,Male,0,Yes,No,6,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer,90.93,545.58,Yes
+5059-XXXXX,Male,1,Yes,Yes,19,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,59.31,1126.89,Yes
+4095-XXXXX,Female,0,Yes,No,55,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card,105.25,5788.75,No
+9895-XXXXX,Male,1,Yes,Yes,64,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,49.7,3180.8,No
+4835-XXXXX,Male,0,Yes,No,45,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,51.35,2310.75,No
+7904-XXXXX,Male,1,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer,83.73,418.65,No
+4167-XXXXX,Male,0,Yes,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,79.21,396.05,No
+6715-XXXXX,Female,1,No,No,58,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer,41.29,2394.82,No
+2163-XXXXX,Male,1,Yes,Yes,42,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card,27.55,1157.1,Yes
+1240-XXXXX,Male,0,Yes,No,69,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,54.66,3771.54,No
+6164-XXXXX,Female,1,Yes,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,46.41,1577.94,No
+4850-XXXXX,Female,1,No,No,56,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card,114.23,6396.88,No
+4000-XXXXX,Female,1,No,No,61,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,87.38,5330.18,No
+5094-XXXXX,Male,1,No,Yes,57,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer,116.21,6623.97,Yes
+2902-XXXXX,Male,0,No,Yes,67,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,No,Bank transfer,99.1,6639.7,No
+5789-XXXXX,Male,0,No,Yes,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,116.0,3596.0,No
+2068-XXXXX,Male,0,No,Yes,55,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,50.25,2763.75,No
+7085-XXXXX,Female,0,No,Yes,72,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,62.87,4526.64,No
+7712-XXXXX,Female,0,No,No,28,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,98.78,2765.84,No
+7824-XXXXX,Female,0,No,Yes,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,41.74,2003.52,Yes
+7842-XXXXX,Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,66.93,401.58,Yes
+1662-XXXXX,Female,0,No,Yes,21,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,43.53,914.13,No
+3851-XXXXX,Male,0,No,Yes,15,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,70.31,1054.65,No
+3924-XXXXX,Male,1,No,No,26,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,45.23,1175.98,No
+2254-XXXXX,Female,1,Yes,Yes,8,No,No phone service,DSL,Yes,No,No,No,Yes,No,One year,Yes,Credit card,108.6,868.8,No
+2438-XXXXX,Female,0,Yes,No,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,88.29,2736.99,No
+6729-XXXXX,Male,1,Yes,Yes,46,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,27.88,1282.48,No
+2910-XXXXX,Female,1,Yes,Yes,69,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,56.02,3865.38,No
+6231-XXXXX,Female,1,Yes,Yes,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,45.7,1782.3,No
+1806-XXXXX,Male,0,Yes,Yes,60,Yes,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,60.19,3611.4,Yes
+5414-XXXXX,Male,1,Yes,No,28,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,34.62,969.36,No
+2404-XXXXX,Male,0,Yes,No,50,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,37.79,1889.5,No
+8051-XXXXX,Male,1,No,No,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,113.22,4075.92,No
+6287-XXXXX,Male,0,Yes,Yes,1,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer,83.04,83.04,No
+3730-XXXXX,Male,0,No,No,47,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card,64.8,3045.6,No
+4286-XXXXX,Female,1,No,Yes,60,Yes,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,No,Bank transfer,62.72,3763.2,No
+1250-XXXXX,Female,1,No,Yes,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,32.23,64.46,No
+5422-XXXXX,Male,0,No,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,45.51,2184.48,Yes
+7864-XXXXX,Female,1,Yes,No,53,Yes,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card,63.77,3379.81,No
+2358-XXXXX,Male,0,Yes,Yes,11,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,91.57,1007.27,Yes
+4973-XXXXX,Male,0,No,No,33,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Credit card,96.38,3180.54,No
+4594-XXXXX,Female,1,No,No,28,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,22.22,622.16,No
+3568-XXXXX,Female,0,No,Yes,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,39.71,357.39,No
+2898-XXXXX,Female,1,No,No,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.84,1208.72,No
+1893-XXXXX,Male,0,No,No,41,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card,114.99,4714.59,Yes
+7539-XXXXX,Male,1,No,Yes,70,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,33.11,2317.7,Yes
+3592-XXXXX,Male,1,Yes,No,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,98.19,196.38,No
+2999-XXXXX,Male,1,Yes,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,38.18,1641.74,No
+3494-XXXXX,Male,0,Yes,Yes,0,Yes,No phone service,Fiber optic,No,No,No,Yes,No,No,Two year,Yes,Bank transfer,92.67,0.0,No
+5752-XXXXX,Female,1,No,Yes,48,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,50.72,2434.56,Yes
+9249-XXXXX,Female,1,Yes,Yes,48,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card,97.28,4669.44,No
+9272-XXXXX,Male,0,Yes,Yes,70,Yes,Yes,DSL,No,Yes,No,No,No,Yes,One year,No,Mailed check,85.19,5963.3,No
+7368-XXXXX,Male,0,Yes,Yes,39,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,22.34,871.26,No
+4534-XXXXX,Female,1,Yes,No,68,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,One year,Yes,Credit card,91.36,6212.48,No
+3275-XXXXX,Female,1,No,Yes,41,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,No,Bank transfer,99.39,4074.99,No
+4503-XXXXX,Male,1,Yes,No,66,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,47.89,3160.74,No
+5413-XXXXX,Female,0,Yes,Yes,13,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Mailed check,65.64,853.32,No
+5375-XXXXX,Male,0,Yes,No,46,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,36.41,1674.86,Yes
+8115-XXXXX,Female,0,No,No,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,91.32,6483.72,No
+3825-XXXXX,Male,0,No,Yes,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,99.38,1093.18,No
+7547-XXXXX,Male,0,Yes,Yes,47,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,69.94,3287.18,Yes
+2074-XXXXX,Female,0,No,Yes,38,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,62.54,2376.52,No
+3414-XXXXX,Female,1,No,No,33,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,80.03,2640.99,No
+2288-XXXXX,Male,1,Yes,Yes,19,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card,76.64,1456.16,No
+8216-XXXXX,Male,1,Yes,Yes,43,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer,99.12,4262.16,No
+9423-XXXXX,Male,0,No,Yes,28,No,No phone service,Fiber optic,No,No,No,Yes,No,No,One year,No,Electronic check,88.13,2467.64,No
+6984-XXXXX,Male,1,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,91.76,2661.04,Yes
+6242-XXXXX,Male,0,No,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,117.76,4003.84,Yes
+1425-XXXXX,Female,1,No,Yes,3,No,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Credit card,87.87,263.61,No
+6523-XXXXX,Female,1,Yes,No,16,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Two year,No,Bank transfer,85.17,1362.72,No
+7330-XXXXX,Female,0,No,No,48,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer,75.5,3624.0,No
+4732-XXXXX,Male,0,Yes,No,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,73.95,3919.35,Yes
+3238-XXXXX,Female,0,No,No,25,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,28.3,707.5,No
+9038-XXXXX,Male,0,No,Yes,38,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,94.69,3598.22,No
+5787-XXXXX,Female,0,Yes,No,59,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,44.48,2624.32,Yes
+9165-XXXXX,Female,1,Yes,No,68,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,71.99,4895.32,No
+8832-XXXXX,Male,1,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card,38.78,2171.68,Yes
+4667-XXXXX,Female,1,No,No,62,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,61.76,3829.12,Yes
+2067-XXXXX,Male,0,Yes,No,68,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,No,Credit card,94.18,6404.24,No
+3909-XXXXX,Male,1,No,Yes,6,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,71.4,428.4,No
+4648-XXXXX,Male,1,No,Yes,65,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card,109.85,7140.25,Yes
+9966-XXXXX,Male,1,Yes,No,24,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer,65.63,1575.12,No
+5974-XXXXX,Male,0,No,No,70,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,80.2,5614.0,Yes
+8448-XXXXX,Male,1,No,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer,71.44,3714.88,No
+8491-XXXXX,Male,1,No,Yes,17,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,41.39,703.63,No
+6900-XXXXX,Female,0,No,No,37,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,91.73,3394.01,No
+6536-XXXXX,Male,1,Yes,Yes,66,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,24.7,1630.2,No
+3350-XXXXX,Female,1,Yes,Yes,31,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Two year,No,Bank transfer,41.01,1271.31,No
+6235-XXXXX,Female,0,No,Yes,70,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,68.22,4775.4,Yes
+3413-XXXXX,Female,0,No,No,43,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Mailed check,24.4,1049.2,No
+8203-XXXXX,Female,1,Yes,Yes,46,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer,72.39,3329.94,No
+7194-XXXXX,Male,1,No,Yes,28,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,102.91,2881.48,No
+1123-XXXXX,Female,1,No,Yes,22,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,83.76,1842.72,No
+6028-XXXXX,Male,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,98.05,3431.75,Yes
+3529-XXXXX,Male,1,No,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,75.78,4319.46,No
+1198-XXXXX,Female,1,No,Yes,47,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,96.19,4520.93,No
+5029-XXXXX,Male,1,Yes,Yes,40,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,No,Bank transfer,39.42,1576.8,No
+6845-XXXXX,Male,0,Yes,No,55,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Two year,No,Mailed check,103.43,5688.65,No
+4136-XXXXX,Female,1,Yes,Yes,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,99.44,4474.8,No
+4975-XXXXX,Male,0,No,Yes,48,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,115.8,5558.4,No
+3489-XXXXX,Male,1,No,Yes,12,Yes,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,41.27,495.24,Yes
+2372-XXXXX,Male,1,Yes,No,40,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,54.57,2182.8,No
+6300-XXXXX,Male,0,Yes,Yes,17,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,98.32,1671.44,No
+6748-XXXXX,Male,0,Yes,Yes,58,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,54.65,3169.7,No
+8569-XXXXX,Male,0,No,Yes,49,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,117.87,5775.63,No
+3257-XXXXX,Male,1,No,Yes,42,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card,75.33,3163.86,No
+1266-XXXXX,Female,1,Yes,No,60,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,Yes,Credit card,70.44,4226.4,No
+6063-XXXXX,Male,1,Yes,Yes,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,31.44,1383.36,No
+8773-XXXXX,Female,0,Yes,Yes,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,92.56,2591.68,No
+4041-XXXXX,Male,1,No,Yes,32,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card,23.39,748.48,Yes
+7256-XXXXX,Female,0,No,Yes,47,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Two year,No,Electronic check,42.53,1998.91,No
+8284-XXXXX,Female,1,No,No,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,86.78,2429.84,No
+9268-XXXXX,Female,1,Yes,Yes,66,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,No,Mailed check,42.14,2781.24,No
+2476-XXXXX,Female,1,Yes,Yes,44,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,99.62,4383.28,No
+9865-XXXXX,Male,1,Yes,Yes,47,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Two year,Yes,Electronic check,105.37,4952.39,No
+3857-XXXXX,Female,1,Yes,Yes,32,Yes,No,DSL,No,Yes,No,No,No,No,Two year,No,Credit card,85.99,2751.68,No
+4191-XXXXX,Female,0,Yes,Yes,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,25.77,283.47,Yes
+7798-XXXXX,Male,1,Yes,Yes,6,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Two year,No,Bank transfer,32.23,193.38,No
+6305-XXXXX,Female,0,Yes,No,4,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,45.01,180.04,No
+3149-XXXXX,Female,1,Yes,Yes,48,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,105.22,5050.56,No
+1309-XXXXX,Male,1,Yes,Yes,28,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,82.53,2310.84,Yes
+3603-XXXXX,Female,0,No,No,71,No,No phone service,DSL,No,Yes,No,Yes,No,No,Two year,No,Bank transfer,36.04,2558.84,No
+2101-XXXXX,Female,0,Yes,No,5,No,No phone service,DSL,No,No,No,Yes,Yes,No,One year,No,Bank transfer,102.81,514.05,No
+5211-XXXXX,Male,0,No,Yes,2,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,56.25,112.5,No
+2376-XXXXX,Male,0,No,Yes,20,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Electronic check,105.8,2116.0,No
+5665-XXXXX,Male,1,Yes,No,21,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,26.68,560.28,Yes
+8230-XXXXX,Female,0,Yes,Yes,32,Yes,No phone service,DSL,No,No,No,No,No,No,Two year,No,Bank transfer,98.87,3163.84,No
+2576-XXXXX,Male,0,Yes,No,56,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,58.89,3297.84,No
+4397-XXXXX,Female,0,No,No,66,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,114.96,7587.36,Yes
+5263-XXXXX,Male,0,Yes,Yes,68,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,77.16,5246.88,No
+2416-XXXXX,Male,1,Yes,Yes,48,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer,106.91,5131.68,Yes
+6415-XXXXX,Male,0,No,No,49,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,No,Mailed check,26.83,1314.67,No
+4423-XXXXX,Male,1,No,No,32,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,73.75,2360.0,Yes
+4752-XXXXX,Male,1,Yes,Yes,18,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,46.64,839.52,Yes
+9237-XXXXX,Female,1,Yes,Yes,50,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,20.55,1027.5,No
+6203-XXXXX,Male,1,Yes,No,39,Yes,No phone service,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card,79.82,3112.98,No
+1112-XXXXX,Female,0,No,Yes,34,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Electronic check,106.32,3614.88,No
+6507-XXXXX,Female,0,Yes,No,22,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card,30.01,660.22,No
+3618-XXXXX,Male,0,Yes,Yes,38,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,104.26,3961.88,No
+1974-XXXXX,Female,1,No,Yes,50,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer,66.02,3301.0,Yes
+9128-XXXXX,Female,0,Yes,Yes,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,75.45,3847.95,No
+3021-XXXXX,Male,0,No,No,23,No,No phone service,DSL,No,Yes,No,No,No,Yes,One year,Yes,Mailed check,93.32,2146.36,No
+8299-XXXXX,Female,0,No,Yes,4,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,112.14,448.56,Yes
+8911-XXXXX,Female,0,No,Yes,17,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,62.41,1060.97,Yes
+2871-XXXXX,Female,0,Yes,Yes,46,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,No,Mailed check,105.6,4857.6,No
+3323-XXXXX,Female,1,Yes,Yes,37,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,No,Mailed check,60.52,2239.24,No
+3961-XXXXX,Female,1,Yes,Yes,11,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,93.68,1030.48,No
+5283-XXXXX,Female,1,Yes,Yes,16,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,105.19,1683.04,No
+3018-XXXXX,Male,1,No,Yes,61,No,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,98.19,5989.59,Yes
+1492-XXXXX,Male,0,Yes,Yes,30,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,44.84,1345.2,Yes
+7842-XXXXX,Female,1,No,No,36,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,42.74,1538.64,Yes
+6578-XXXXX,Female,1,No,Yes,37,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Two year,No,Bank transfer,68.9,2549.3,No
+9914-XXXXX,Male,1,No,No,50,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,82.22,4111.0,No
+1168-XXXXX,Male,1,Yes,Yes,4,Yes,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,No,Credit card,36.51,146.04,No
+5981-XXXXX,Male,0,Yes,No,1,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer,50.99,50.99,No
+3740-XXXXX,Male,1,Yes,Yes,67,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,23.48,1573.16,No
+5641-XXXXX,Male,0,Yes,No,3,Yes,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer,108.08,324.24,No
+7332-XXXXX,Male,1,Yes,No,61,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,No,Mailed check,58.3,3556.3,No
+4951-XXXXX,Male,1,No,Yes,34,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,39.35,1337.9,Yes
+2884-XXXXX,Male,1,Yes,Yes,26,No,No phone service,Fiber optic,No,No,Yes,No,Yes,No,Two year,No,Credit card,78.26,2034.76,No
+8968-XXXXX,Female,1,No,No,43,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,103.65,4456.95,No
+2530-XXXXX,Male,1,No,Yes,29,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,33.98,985.42,No
+1249-XXXXX,Female,0,No,No,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,94.12,4988.36,No
+4244-XXXXX,Male,1,No,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,110.5,7956.0,No
+8237-XXXXX,Male,0,No,Yes,63,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,92.0,5796.0,No
+4625-XXXXX,Male,0,Yes,Yes,49,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card,48.23,2363.27,Yes
+9998-XXXXX,Male,1,Yes,Yes,27,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,72.29,1951.83,No
+6340-XXXXX,Male,1,No,Yes,66,Yes,No phone service,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Mailed check,39.82,2628.12,No
+5009-XXXXX,Female,0,Yes,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,81.6,1142.4,No
+2405-XXXXX,Female,0,No,No,43,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,79.54,3420.22,No
+5499-XXXXX,Female,1,No,Yes,63,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,71.65,4513.95,No
+6313-XXXXX,Male,1,No,Yes,18,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card,63.2,1137.6,No
+1547-XXXXX,Male,0,Yes,Yes,14,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,72.19,1010.66,No
+3767-XXXXX,Male,0,No,No,3,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,92.67,278.01,No
+9768-XXXXX,Female,0,No,No,0,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,59.38,0.0,No
+5984-XXXXX,Male,0,Yes,Yes,17,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Mailed check,91.98,1563.66,No
+6270-XXXXX,Female,1,Yes,No,26,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,118.15,3071.9,No
+8894-XXXXX,Female,1,Yes,No,33,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,23.36,770.88,Yes
+8810-XXXXX,Male,0,Yes,No,60,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,91.04,5462.4,Yes
+7653-XXXXX,Male,0,No,No,42,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer,106.37,4467.54,No
+2672-XXXXX,Female,1,Yes,Yes,4,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card,99.4,397.6,No
+6171-XXXXX,Male,0,Yes,Yes,26,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,81.29,2113.54,No
+8447-XXXXX,Female,1,No,Yes,32,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,91.57,2930.24,No
+4077-XXXXX,Female,0,No,Yes,14,No,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,56.09,785.26,Yes
+7117-XXXXX,Male,1,No,Yes,40,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,92.3,3692.0,Yes
+1486-XXXXX,Female,1,No,Yes,71,Yes,No phone service,DSL,Yes,No,Yes,No,No,No,Two year,No,Electronic check,79.76,5662.96,No
+1511-XXXXX,Female,0,No,Yes,42,No,No phone service,DSL,No,No,No,No,No,Yes,One year,Yes,Mailed check,80.98,3401.16,No
+4850-XXXXX,Female,0,No,Yes,39,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,118.27,4612.53,Yes
+3377-XXXXX,Female,0,Yes,No,56,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,22.13,1239.28,Yes
+5731-XXXXX,Male,1,Yes,Yes,28,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,40.46,1132.88,No
+9554-XXXXX,Female,1,No,Yes,24,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,No,Credit card,41.26,990.24,No
+1071-XXXXX,Male,0,No,Yes,22,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,42.16,927.52,No
+5392-XXXXX,Female,0,Yes,Yes,45,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,81.55,3669.75,No
+2834-XXXXX,Female,0,No,No,7,No,No phone service,DSL,Yes,No,No,No,No,Yes,One year,No,Electronic check,103.9,727.3,No
+5627-XXXXX,Male,1,No,No,40,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,87.29,3491.6,No
+9906-XXXXX,Male,1,Yes,Yes,13,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,41.82,543.66,No
+5385-XXXXX,Male,0,No,No,4,No,No phone service,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,76.71,306.84,No
+4168-XXXXX,Female,1,Yes,No,72,No,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Electronic check,52.42,3774.24,No
+4766-XXXXX,Male,1,No,Yes,41,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,82.16,3368.56,No
+9289-XXXXX,Female,1,Yes,No,44,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,95.33,4194.52,Yes
+9695-XXXXX,Female,0,No,Yes,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,26.92,1722.88,No
+3641-XXXXX,Female,1,Yes,No,26,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,35.04,911.04,No
+6955-XXXXX,Male,0,Yes,No,38,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,96.79,3678.02,No
+3297-XXXXX,Female,0,No,Yes,66,Yes,No,DSL,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer,31.79,2098.14,No
+3886-XXXXX,Male,1,No,No,61,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,No,Mailed check,50.14,3058.54,No
+7546-XXXXX,Male,1,No,Yes,14,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Bank transfer,69.21,968.94,No
+1920-XXXXX,Male,1,No,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card,52.08,885.36,No
+7526-XXXXX,Female,0,No,Yes,19,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,111.46,2117.74,Yes
+1414-XXXXX,Female,0,No,Yes,28,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,68.52,1918.56,No
+5611-XXXXX,Female,1,No,Yes,64,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,78.04,4994.56,No
+8175-XXXXX,Male,1,No,No,15,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Two year,No,Credit card,47.18,707.7,No
+8817-XXXXX,Female,0,No,Yes,2,No,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,35.51,71.02,Yes
+1052-XXXXX,Male,1,Yes,Yes,46,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Electronic check,21.03,967.38,No
+9027-XXXXX,Male,1,No,No,60,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,71.17,4270.2,No
+1888-XXXXX,Male,1,No,Yes,67,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Two year,No,Electronic check,69.09,4629.03,No
+3921-XXXXX,Male,0,Yes,No,4,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,55.95,223.8,Yes
+5232-XXXXX,Male,1,Yes,No,23,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,63.62,1463.26,Yes
+3486-XXXXX,Male,0,Yes,Yes,70,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,101.51,7105.7,No
+5631-XXXXX,Male,1,No,No,53,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,61.02,3234.06,No
+3605-XXXXX,Female,0,Yes,No,61,No,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,No,Credit card,58.56,3572.16,No
+4063-XXXXX,Female,1,Yes,Yes,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card,73.44,2496.96,No
+2443-XXXXX,Male,0,No,Yes,48,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer,58.15,2791.2,Yes
+4946-XXXXX,Female,0,Yes,No,57,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card,36.21,2063.97,No
+5045-XXXXX,Male,0,Yes,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer,20.53,41.06,No
+7657-XXXXX,Male,1,No,No,38,No,No phone service,DSL,No,No,No,No,Yes,Yes,One year,No,Credit card,67.54,2566.52,No
+5123-XXXXX,Female,0,No,Yes,55,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card,74.09,4074.95,No
+1678-XXXXX,Female,0,Yes,Yes,70,No,No phone service,DSL,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,27.03,1892.1,No
+5837-XXXXX,Female,0,No,Yes,20,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Two year,Yes,Credit card,80.66,1613.2,No
+1891-XXXXX,Female,0,No,No,72,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,84.42,6078.24,No
+1247-XXXXX,Male,1,Yes,Yes,72,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,77.41,5573.52,No
+9727-XXXXX,Female,1,Yes,Yes,36,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Two year,No,Bank transfer,43.04,1549.44,No
+9244-XXXXX,Female,0,Yes,No,56,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Bank transfer,22.84,1279.04,No
+7127-XXXXX,Female,1,Yes,No,57,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer,36.16,2061.12,No
+9792-XXXXX,Female,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Credit card,69.97,1399.4,No
+5709-XXXXX,Male,1,Yes,Yes,7,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,119.81,838.67,No
+9729-XXXXX,Female,0,No,Yes,7,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card,78.31,548.17,No
+4454-XXXXX,Female,1,Yes,No,22,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Credit card,97.12,2136.64,No
+4037-XXXXX,Female,1,No,No,44,No,No phone service,DSL,No,No,Yes,No,No,No,Two year,No,Bank transfer,87.76,3861.44,No
+2846-XXXXX,Male,1,Yes,Yes,22,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer,81.37,1790.14,No
+5928-XXXXX,Female,0,No,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,64.26,3662.82,No
+8464-XXXXX,Male,1,Yes,Yes,15,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,65.44,981.6,No
+3610-XXXXX,Male,1,Yes,No,26,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,38.26,994.76,No
+6350-XXXXX,Female,0,Yes,No,19,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card,104.24,1980.56,Yes
+7170-XXXXX,Female,1,Yes,Yes,47,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer,63.87,3001.89,No
+7659-XXXXX,Male,0,Yes,Yes,0,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,118.62,0.0,No
+4506-XXXXX,Female,0,Yes,No,9,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Mailed check,56.71,510.39,No
+9876-XXXXX,Male,1,Yes,No,35,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Credit card,45.11,1578.85,No
+7590-XXXXX,Male,1,Yes,Yes,50,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer,36.24,1812.0,No
+5503-XXXXX,Female,0,Yes,Yes,2,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,111.77,223.54,No
+1087-XXXXX,Female,0,No,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer,115.12,5756.0,No
+7581-XXXXX,Female,1,No,Yes,16,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card,97.36,1557.76,No
+7953-XXXXX,Male,0,No,Yes,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card,98.17,5693.86,No
+1656-XXXXX,Female,1,Yes,Yes,29,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer,86.18,2499.22,No
+8437-XXXXX,Female,1,Yes,Yes,21,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,80.91,1699.11,No
+4029-XXXXX,Male,0,Yes,No,54,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Mailed check,36.59,1975.86,No

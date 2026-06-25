@@ -5,9 +5,9 @@ Repositório destinado ao projeto de desenvolvimento de software em Ciência de 
 ## 📅 Cronograma de Atividades (160 Horas Totais)
 
 ### 🔹 Semana 1: 01/07/2026 a 07/07/2026 (27 horas) — Setup e Data Wrangling
-- [ ] Configuração do ambiente virtual Python e instalação de bibliotecas no VS Code.
-- [ ] Download e importação do dataset histórico da IBM Telco Customer Churn.
-- [ ] Tratamento de dados nulos, remoção de duplicatas e conversão de tipos de variáveis.
+- [x] Configuração do ambiente virtual Python e instalação de bibliotecas no VS Code.
+- [x] Download e importação do dataset histórico da IBM Telco Customer Churn.
+- [x] Tratamento de dados nulos, remoção de duplicatas e conversão de tipos de variáveis.
 
 ### 🔹 Semana 2: 08/07/2026 a 14/07/2026 (27 horas) — Análise Exploratória (EDA)
 - [ ] Criação de matrizes de correlação e gráficos estatísticos (Seaborn/Matplotlib).
